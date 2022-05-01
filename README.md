@@ -6,7 +6,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Results
 
-###*Naive Random Oversampling
+### *Naive Random Oversampling
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/RandomOverSamp1.png)
 
