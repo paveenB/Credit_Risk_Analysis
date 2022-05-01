@@ -6,3 +6,45 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Results
 
+*Naive Random Oversampling
+
+![This is an image]
+
+![This is an image]
+
+*SMOTE Oversampling
+
+![This is an image]
+
+![This is an image]
+
+*Cluster Centroids
+
+![This is an image]
+
+![This is an image]
+
+*SMOTEENN
+
+![This is an image]
+
+![This is an image]
+
+*Balanced Random Forest Classifier
+
+![This is an image]
+
+![This is an image]
+
+*Easy Ensemble AdaBoost Classifier
+
+![This is an image]
+
+![This is an image]
+
+
+
+
+
+
+
