@@ -13,8 +13,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/RandomOverSamp2.png)
 
 * The balanced accuracy score is 64%
-* The high risk precision is about 1%
-* the low risk precision is about 100%
+* The high risk precision is about 1% with a sensitivity recall score of 66%
+* the low risk precision is about 100% with a sensitivity recall score of 62%
 
 ### SMOTE Oversampling
 
@@ -23,8 +23,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp2.png)
 
 * The balanced accuracy score is 65%
-* The high risk precision is about 1%
-* the low risk precision is about 100%
+* The high risk precision is about 1% with a sensitivity recall score of 69%
+* the low risk precision is about 100% with a sensitivity recall score of 61%
 
 ### Cluster Centroids
 
@@ -33,8 +33,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/UnderSamp2.png)
 
 * The balanced accuracy score is 65%
-* The high risk precision is about 1%
-* the low risk precision is about 100%
+* The high risk precision is about 1% with a sensitivity recall score of 69%
+* the low risk precision is about 100% with a sensitivity recall score of 40%
 
 ### SMOTEENN
 
@@ -43,8 +43,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/CombSamp1.png)
 
 * The balanced accuracy score is 54%
-* The high risk precision is about 1%
-* the low risk precision is about 100%
+* The high risk precision is about 1% with a sensitivity recall score of 72%
+* the low risk precision is about 100% with a sensitivity recall score of 57%
 
 ### Balanced Random Forest Classifier
 
@@ -53,8 +53,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/BalanceRandFor2.png)
 
 * The balanced accuracy score is 77%
-* The high risk precision is about 3%
-* the low risk precision is about 100%
+* The high risk precision is about 3% with a sensitivity recall score of 64%
+* the low risk precision is about 100% with a sensitivity recall score of 89%
 
 ### Easy Ensemble AdaBoost Classifier
 
@@ -63,8 +63,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/EasyEnClass2.png)
 
 * The balanced accuracy score is 92%
-* The high risk precision is about 9%
-* the low risk precision is about 100%
+* The high risk precision is about 9% with a sensitivity recall score of 89%
+* the low risk precision is about 100% with a sensitivity recall score of 94%
 
 ## Summary
 
