@@ -68,7 +68,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Summary
 
-
+Each of the the models used to perform the credit risk analysis showed weak precision in determining if a credit risk is high.  The Ensemble models did bring improve the sensitivity of the high risk credits.  The Easy Ensemble AdaBoost Classifier model shows accuracy of 92% so it detects almost all high risk credit. On another hand, with a low precision, a lot of low risk credits are still falsely detected as high risk which would not do well to the bank's credit strategy or bottomline.  I would not be comfortable in recommending the bank to use any of these models to predict credit risk.
 
 
 
