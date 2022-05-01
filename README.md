@@ -22,6 +22,10 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp2.png)
 
+* The balanced accuracy score is 65%
+* The high risk precision is about 1%
+* the low risk precision is about 100%
+
 ### Cluster Centroids
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/UnderSamp1.png)
