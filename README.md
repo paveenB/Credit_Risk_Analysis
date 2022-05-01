@@ -6,37 +6,37 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Results
 
-*### Naive Random Oversampling
+### Naive Random Oversampling
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/RandomOverSamp1.png)
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/RandomOverSamp2.png)
 
-*SMOTE Oversampling
+### SMOTE Oversampling
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp1.png)
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp2.png)
 
-*Cluster Centroids
+### Cluster Centroids
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/UnderSamp1.png)
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/UnderSamp2.png)
 
-*SMOTEENN
+### SMOTEENN
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/CombSamp2.png)
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/CombSamp1.png)
 
-*Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/BalanceRandFor1.png)
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/BalanceRandFor2.png)
 
-*Easy Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/EasyEnClass1.png)
 
