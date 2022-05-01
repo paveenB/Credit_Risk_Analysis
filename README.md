@@ -32,15 +32,15 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 *Balanced Random Forest Classifier
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/BalanceRandFor1.png)
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/BalanceRandFor2.png)
 
 *Easy Ensemble AdaBoost Classifier
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/EasyEnClass1.png)
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/EasyEnClass2.png)
 
 
 
