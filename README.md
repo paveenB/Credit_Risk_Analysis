@@ -12,6 +12,10 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/RandomOverSamp2.png)
 
+* The balanced accuracy score is 64%
+* The high risk precision is about 1%
+* the low risk precision is about 100%
+
 ### SMOTE Oversampling
 
 ![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp1.png)
