@@ -14,21 +14,21 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 *SMOTE Oversampling
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp1.png)
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/SMOTEOverSamp2.png)
 
 *Cluster Centroids
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/UnderSamp1.png)
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/UnderSamp2.png)
 
 *SMOTEENN
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/CombSamp2.png)
 
-![This is an image]
+![This is an image](https://github.com/paveenB/Credit_Risk_Analysis/blob/main/CombSamp1.png)
 
 *Balanced Random Forest Classifier
 
